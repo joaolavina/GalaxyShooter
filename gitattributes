@@ -52,3 +52,5 @@
 *.prefab linguist-generated
 *.unity linguist-generated
 *.aar filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+Galaxy Shooter/Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
